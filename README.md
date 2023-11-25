@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cosentino19
 - 👀 I’m interested to the world of computing, programming and technology
 - 🌱 I’m currently learning computing and programming at the university
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with any company looking for apprentices
 - 📫 How to reach me: cosentinooo19@gmail.com
 
 <!---
